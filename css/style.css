@@ -1,0 +1,14 @@
+.btn{
+    margin: auto !important;
+    display: block;
+}
+/* b.underline{
+    text-decoration: underline;
+} */
+small.red{
+    color: red;
+}
+b.d-block{
+    text-align: center;
+    text-decoration: underline;
+}
